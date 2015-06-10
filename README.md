@@ -1,6 +1,8 @@
 # Static Magazine - the dynamic one
 ## responsive Blogger Template
 
+![preview](https://raw.githubusercontent.com/mynimi/Static-Magazine/master/static-magazine.png)
+
 Ich war ein grosser Fan der dynamischen Ansichten, weil es etwas Neues war. Da sie allerdings komplett mit JavaScript generiert werden, sind sie nicht sonderlich benutzerfreundlich und können die Ladezeiten extrem beanspruchen. Ausserdem werden gewisse Änderungen, die über den Vorlagendesigner gemacht wurden nicht richtig angezeigt.
 Mit Static Magazine habe ich versucht den Look der dynamischen Vorlage zu übernehmen und daraus etwas zu machen, womit man arbeiten kann.
 
